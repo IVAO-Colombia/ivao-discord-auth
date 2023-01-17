@@ -10,5 +10,6 @@ return [
     'invalidTokenException' => 'Esta página no tiene permiso para usar IVAO Login API',
     'invalidPermissionException' => 'No tienes permiso para acceder a este servidor',
     'successTitle' => 'Permiso Concedido',
-    'successBody' => 'Disfrute de nuestro servidor !'
+    'successBody' => 'Disfrute de nuestro servidor !',
+    'revokeAccount' => 'Abandonar Servidor',
 ];

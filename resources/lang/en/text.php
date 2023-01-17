@@ -14,5 +14,6 @@ return [
     'consentmentDeclaration1' => 'I agree to the declaration of',
     'consentmentDeclaration2' => 'and that the processing can be carried out as appropriate. I have read the ',
     'consent' => 'consent',
+    'revokeAccount' => 'Leave Server',
     'privacyPolicy' => 'privacy policy'
 ];
