@@ -120,7 +120,7 @@
             <div class="acceptContainer">
                 <img class="logo"
                     src="https://cdn.discordapp.com/app-icons/1064995759159791708/3b7c5001dc9988c6db01bff981c14779.png?size=512"
-                    alt="Logo">
+                    alt="Logo" style="position: relative; z-index:99; width: 100%;">
                 <form>
                     <h1>@lang('text.welcome'), {{ $firstName }}</h1>
                     <div class="formContainer">
